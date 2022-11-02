@@ -4,7 +4,7 @@ Neural networks provide a computational model for solving various types of probl
 network activation functions are implemented to gain approximation results to verify the theoretical arguments. However, the arguments related to ReLU network have not been verified yet.
 
 Therefore, this project aims to deal with two parts: 
-(1) Investigate the computational power of neural networks by solving parametric ordinary differential equations with sigmoid activation function.
-(2) Investigate the approximation ability of neural networks by performing experiments to verify the theoretical arguments of ReLU network. 
+1. Investigate the computational power of neural networks by solving parametric ordinary differential equations with sigmoid activation function.
+2. Investigate the approximation ability of neural networks by performing experiments to verify the theoretical arguments of ReLU network. 
 
 For the first part, satisfying results are acquired through experiments. In the second part, we emphasize the gap between experimental results and the theoretical arguments.
